@@ -1,6 +1,6 @@
 {
   "name": "@zen_flow/react-ssr-prepass",
-  "version": "1.1.2-next-with-gqless-example-1",
+  "version": "1.1.2-next-with-gqless-example-2",
   "description": "A custom partial React SSR renderer for prefetching and suspense",
   "main": "index.js",
   "author": "Phil Plückthun <phil.pluckthun@formidable.com>",
